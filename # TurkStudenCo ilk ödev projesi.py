@@ -1,3 +1,5 @@
+# 2. ödevin kodları 
+
 #  Sorular
 #  1. Seviye: Basit
 #  Soru:  Bir sayının tek mi çift mi olduğunu bulan programın akış diyagramını çizin
